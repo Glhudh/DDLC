@@ -1,0 +1,245 @@
+.div_text{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bolder;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(255, 223, 250);
+}
+
+.footer{
+    text-align: center;
+    background-color: rgb(255, 223, 250);
+    padding: 5px;
+    color: rgb(255, 173, 243);
+}
+
+.junie{
+    color: rgb(255, 117, 234);
+}
+.junie:hover{
+    color: rgb(91, 247, 195);
+}
+
+.img_style{
+    height: 100px;
+    align-self: start;
+}
+
+
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #f8bbef;
+}
+
+.surfer{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 223, 250);
+    justify-content: baseline;
+    width: 50px;
+    padding: 27px;
+}
+
+.surfer:active{
+    color: rgb(255, 255, 255);
+}
+
+
+
+h2{
+    color: rgb(255, 173, 243);
+}
+
+.sans_soulignement{
+    text-decoration: none;
+}
+
+.pages{
+    text-decoration: underline;
+}
+
+.page1{
+    color: rgb(255, 173, 243);
+   
+}
+.page1:hover{
+    color: fuchsia;
+}
+.page1:active{
+    color: red;
+}
+
+.page2{
+    color: rgb(255, 173, 243);
+}
+.page2:hover{
+    color:#50C878 ;
+}
+.page2:active{
+    color: red;
+}
+
+.page3{
+    color: rgb(255, 173, 243);
+}
+.page3:hover{
+    color: purple;
+}
+.page3:active{
+    color: red;
+}
+
+.page4{
+    color: rgb(255, 173, 243);
+}
+.page4:hover{
+    color: pink;
+}
+.page4:active{
+    color: red;
+}
+
+.page5{
+    color: rgb(255, 173, 243);
+}
+.page5:hover{
+    color: #ADD8E6;
+}
+.page5:active{
+    color: red;
+}
+
+.page6{
+    color: rgb(255, 173, 243);
+}
+.page6:hover{
+    color: black;
+}
+.page6:active{
+    color: red;
+}
+
+.page7{
+    color: rgb(255, 173, 243);
+}
+.page7:hover{
+    color: yellow;
+}
+.page7:active{
+    color: red;
+}
+
+.banière{
+   justify-self: center;
+   padding: 10px;
+}
+
+.banner{
+   width: 163%;
+}
+
+body{
+    background-image: url("ddlc_site/bacckground.png");
+    background-repeat: repeat;
+}
+
+.navigation{
+    display: flex;
+    align-items: center;
+}
+
+.sous_header{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.paragraphe1{
+    padding: 5px;
+    justify-self: center;
+    justify-content: space-between;
+}
+.paragraphe2{
+    padding: 5px;
+    justify-self: center;
+    justify-content: space-between;    
+}
+
+
+.p1{
+    background-color: #ffd1eb;
+    padding: 5px;
+    font-size: 19px;
+}
+.p2{
+    background-color: #ffd1eb;
+    padding: 5px;
+    font-size: 19px;    
+}
+
+.paragraphe3{
+    background-color: #ffd1eb;
+}
+
+.banière{
+    height: fit-content;
+}
+
+.banner{
+    width: 100%;
+}
+.banner:hover{
+    filter: grayscale(50%);
+}
+
+.sourire{
+    width: 119.3px;
+}
+.sourire:hover{
+    filter: grayscale(50%);
+}
+
+.milieu_contenu{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.texte_image_milieu{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.sourire_2{
+    padding: 95px;
+    width: 100%;
+}
+.sourire_2:hover{
+    filter: grayscale(100%);
+}
+
+
+.MC{
+    color: black;
+}
+.MC:hover{
+    color: rgb(128, 128, 128);
+    font-style: italic;
+}
+
+.sayori{
+    color: black;
+}
+.sayori:hover{
+    color: #ADD8E6;
+    font-style: italic;
+}
+
+.img_style:hover{
+    filter: grayscale(50%);
+}
+
